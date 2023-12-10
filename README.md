@@ -3,8 +3,6 @@ Redefines tensor in C++ for AI HPC over various platforms for high performance, 
 
 - Nvidia Host GPUs
 - Nvidia Embedded GPUs
-- Macbook
-- iPhone
 
 ### Environment Setup
 
@@ -14,8 +12,4 @@ Redefines tensor in C++ for AI HPC over various platforms for high performance, 
 ##### Nvidia Host GPUs
 
 ##### Nvidia Embedded GPUs
-
-##### Macbook
-
-##### iPhone
 
